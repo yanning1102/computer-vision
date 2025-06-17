@@ -13,7 +13,7 @@
 | `Q2/`  | 增強實境 - 顯示單字 & 垂直顯示 |
 | `Q3/`  | 立體視差圖 |
 | `Q4/`  | SIFT 特徵點偵測與比對 |
-
+內容簡報:https://docs.google.com/presentation/d/1N7rMgzNN2ftGZhrGeEWdB4tW6ERfY1NG/edit?usp=sharing&ouid=108449458175591628828&rtpof=true&sd=true
 
 ---
 ## 作業規格整理
